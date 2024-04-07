@@ -1,0 +1,31 @@
+﻿<Window x:Class="databinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:databinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Label Content="window title" ></Label>
+            <TextBox x:Name="wintitletxt" Text="{Binding Title , UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            
+            <Label Content="background:"></Label>
+            <TextBox x:Name="bgtxt"></TextBox>
+            <Label Content="width:"></Label>
+            <TextBox x:Name="widtxt" Margin="4,0,-4,0"></TextBox>
+            <Label Content="height:"></Label>
+            <TextBox x:Name="heighttxt"></TextBox>
+            <Label Content="content:"></Label>
+            <TextBox x:Name="contenttxt"></TextBox>
+            <Button Width="{Binding ElementName=widtxt, Path=Text}" Height="{Binding ElementName=heighttxt, Path=Text}" Content="{Binding ElementName=contenttxt, Path=Text}" Background="{Binding ElementName=bgtxt, Path=Text}"></Button>
+        </StackPanel>
+     
+        
+    </Grid>
+</Window>

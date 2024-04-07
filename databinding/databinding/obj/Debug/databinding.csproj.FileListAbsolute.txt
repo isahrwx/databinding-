@@ -1,0 +1,15 @@
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\bin\Debug\databinding.exe.config
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\bin\Debug\databinding.exe
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\bin\Debug\databinding.pdb
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\databinding.csprojAssemblyReference.cache
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\MainWindow.g.cs
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\App.g.cs
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\databinding_MarkupCompile.cache
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\databinding_MarkupCompile.lref
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\MainWindow.baml
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\databinding.g.resources
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\databinding.Properties.Resources.resources
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\databinding.csproj.GenerateResource.cache
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\databinding.csproj.CoreCompileInputs.cache
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\databinding.exe
+C:\Users\Miss.Rezazade\source\repos\databinding\databinding\obj\Debug\databinding.pdb
